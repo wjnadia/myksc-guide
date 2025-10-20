@@ -284,7 +284,7 @@ plot(r,X,'.');
 
 ```
 numGPUS = gpuDeviceCount("available");
-pool = ("Processes",numGPUS);
+pool = parpool("Processes",numGPUS);
 multi_gpu;
 delete(pool);
 ```
