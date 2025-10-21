@@ -194,17 +194,11 @@ USE_SERVER
 
 MATLAB Parallel Computing Toolbox 라이선스를 보유한 사용자는 MATLAB 데스크톱  프로그램이 실행되고 있는 누리온/뉴론  MyKSC의 로컬 서버에서 MATLAB 병렬 연산을 실행할 수 있다. 아래 예시는 뉴론 MyKSC에서 MATLAB 병렬 연산 실행 예시이며, 누리온 MyKSC에서도 동일한  방식으로 실행할 수 있다.
 
-1. MATLAB 데스크톱 프로그램의 Parallel computing options에서  Create and Manage Clusters...  메뉴의 Discover Clusters를  실행하여 뉴론 시스템을 위한MATLAB Parallel Server cluster로 'Neuron'을 선택하여 프로파일을 추가한다.&#x20;
-
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>(뉴론) MATLAB Parallel Server cluster 찾기 화면-1</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p>(뉴론) MATLAB Parallel Server cluster 찾기 화면-2</p></figcaption></figure>
-
-2. Cluster Profile Manager를 실행한다.
+1. MATLAB 데스크톱 프로그램의 Parallel computing options(병렬연산)에서  Create and Manage Clusters(클러스터 생성 및 관리)를 메뉴를  클릭한다.
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p>(뉴론)  Cluster Profile Manager 화면</p></figcaption></figure>
 
-2. 메뉴를 선택하여  Cluster Profile Manager를 실행하고 Cluster Profile에서 Processes를 선택하고 Set as Default 설정 후 Edit 버튼을 눌러서 MATLAB\_VNC 앱에 할당된  CPU 코어 수 이내에서 Numworkers 값을 설정한다.
+2. Cluster Profile Manager가 실행되면 Cluster Profile에서 Processes를 선택하고 Set as Default 설정 후 Edit 버튼을 눌러서 MATLAB\_VNC 앱에 할당된  CPU 코어 수 이내에서 Numworkers 값을 설정한다.
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption><p>(뉴론)  Cluster Profile(Processes) 옵션 설정 화면</p></figcaption></figure>
 
