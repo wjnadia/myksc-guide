@@ -110,7 +110,7 @@ Academic individual 라이선스를 보유한 MATLAB 사용자는 아래와 같�
 {% hint style="warning" %}
 MATLAB Parallel Server의 온라인 라이선스를 활성화 하기 위해서는 아래 절차를 따라야 한다.  &#x20;
 
-1\) [Mathworks 라이선스 센터](https://kr.mathworks.com/mwaccount)에 접속하여 보유한 MATLAB Parallel Server 라이선스를 설치 및 활성화에서 온라인 라이선싱으로 변경한다. (단, Academic 라이선스를 보유한 사용자는 변경이 필요하지 않을 수도 있음)
+1\) [Mathworks 계정](https://kr.mathworks.com/mwaccount)의 내 소프트웨어에 접속하여 보유한 MATLAB Parallel Server 라이선스를 설치 및 활성화에서 온라인 라이선싱으로 변경한다. (단, Academic 라이선스를 보유한 사용자는 변경이 필요하지 않을 수도 있음)
 
 2\) MATLAB 데스크톱 프로그램 실행 후 Cluster Profile Manager의 누리온 및 뉴론 프로파일에서 관련 파라미터를 설정해야 한다.
 
@@ -126,7 +126,7 @@ MATLAB Parallel Server의 온라인 라이선스를 활성화 하기 위해서�
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>(MATLAB 데스크톱) MATLAB Parallel Server 라이선스 활성화를 위한 로그인 화면</p></figcaption></figure>
 
 {% hint style="warning" %}
-동일  라이선스에서  정해진  횟수 이상 활성화된 컴퓨터가 등록된 경우, [MathWorks 계정](https://kr.mathworks.com/mwaccount)의 라이선스 센터에서 활성화된 컴퓨터를 비활성화해야 한다.&#x20;
+동일  라이선스에서  정해진  횟수 이상 활성화된 컴퓨터가 등록된 경우, [MathWorks 계정](https://kr.mathworks.com/mwaccount)의 내  소프트웨어에서 활성화된 컴퓨터를 비활성화해야 한다.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption><p>온라인 라이선스 활성화  횟수 초과 에러 화면</p></figcaption></figure>
@@ -193,6 +193,8 @@ USE_SERVER
 ### 1) 로컬 서버에서 MATLAB 병렬 연산 작업 실행
 
 MATLAB Parallel Computing Toolbox 라이선스를 보유한 사용자는 MATLAB 데스크톱  프로그램이 실행되고 있는 누리온/뉴론  MyKSC의 로컬 서버에서 MATLAB 병렬 연산을 실행할 수 있다. 아래 예시는 뉴론 MyKSC에서 MATLAB 병렬 연산 실행 예시이며, 누리온 MyKSC에서도 동일한  방식으로 실행할 수 있다.
+
+
 
 1. MATLAB 데스크톱 프로그램의 Parallel computing options(병렬연산)에서  Create and Manage Clusters(클러스터 생성 및 관리)를 메뉴를  클릭한다.
 
