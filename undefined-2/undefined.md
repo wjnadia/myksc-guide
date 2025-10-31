@@ -32,6 +32,3 @@ description: 웹 브라우저를 통한 MyKSC 접속이 원활하지 않을 경�
 
 <figure><img src="../.gitbook/assets/그림27.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-## ㅇㄹ
