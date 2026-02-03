@@ -16,7 +16,10 @@ description: ML/DL 모델 개발 및 학습을 위한 웹 기반 Jupyter lab 서
 
 #### 4. 제공되는 Docker 이미지 외의 사용자 이미지를 실행할 경우 체크박스를 클릭하고 사용자 이미지 경로를 직접 입력합니다.&#x20;
 
-1\) 사용자 지정 이미지 입력 예시 : jupyter/minimal-notebook:latest (도커허브)
+1\) 사용자 지정 이미지 입력 예시 : \
+\- Docker Hub 예시\
+docker.io/jupyter/minimal-notebook:latest \
+docker.io/rocker/rstudio:latest
 
 <figure><img src="../.gitbook/assets/그림79.png" alt="" width="375"><figcaption></figcaption></figure>
 

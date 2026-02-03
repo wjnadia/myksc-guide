@@ -10,6 +10,10 @@ description: 웹 기반 R 프로그래밍 환경(IDE) 제공
 
 #### &#x20;  2. 이미지를 선택하고 추가 버튼을 클릭합니다.
 
+1\) 사용자 지정 이미지 입력 예시 : \
+\- Docker Hub \
+docker.io/rocker/rstudio:4.5.2
+
 <figure><img src="../.gitbook/assets/그림82.png" alt=""><figcaption></figcaption></figure>
 
 #### &#x20;3. APP 추가 후 RStudio APP을 클릭하면 브라우저의 새로운 탭에서 RStudio가 실행됩니다.
