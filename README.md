@@ -85,6 +85,10 @@ coverY: 0
 [vnc.md](app/vnc.md)
 {% endcontent-ref %}
 
+{% content-ref url="app/matlab.md" %}
+[matlab.md](app/matlab.md)
+{% endcontent-ref %}
+
 {% content-ref url="app/vdi.md" %}
 [vdi.md](app/vdi.md)
 {% endcontent-ref %}

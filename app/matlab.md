@@ -317,7 +317,7 @@ MATLAB Parallel Server를 통한 병렬 컴퓨팅 연산을 실행하기 위해�
 * QueueName:  누리온 시스템에서 MATLAB 병렬 연산을  위해 사용할 배치 작업 스케줄러(PBS Pro) 작업큐의 이름을 지정합니다.  현재 norm\_skl 큐만 사용  가능합니다.&#x20;
 
 {% hint style="info" %}
-누리온 시스템의 배치  작업 스케줄러(PBS pro)에서 지원하는 큐(norm\_skl)의 계산 노드 정보 등은 [스케줄러를 통한 작업실행(PBS)](https://app.gitbook.com/s/fBmICgXvD3ihLC5OZla4/undefined/running-jobs-through-scheduler-slurm) 또는 [MyKSC 배치작업 APP](pbs-slurm.md)의 큐 정보를 참조하시기 바랍니다.&#x20;
+누리온 시스템의 배치  작업 스케줄러(PBS pro)에서 지원하는 큐(norm\_skl)의 계산 노드 정보 등은 [스케줄러를 통한 작업실행(PBS)](https://app.gitbook.com/s/fBmICgXvD3ihLC5OZla4/system/running-jobs-through-scheduler-slurm) 또는 [MyKSC 배치작업 APP](pbs-slurm.md)의 큐 정보를 참조하시기 바랍니다.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption><p>(누리온) Cluster Profile Manager에서 파라미터 설정하기-1</p></figcaption></figure>
@@ -447,7 +447,7 @@ MATLAB 병렬 연산작업은 누리온 시스템의 배치 작업 스케줄러(
 * TaskPerNode: 계산 노드 당 타스크 수를 지정
 
 {% hint style="info" %}
-뉴론 시스템의 배치  작업 스케줄러(SLURM)에서 지원하는 Partition(큐) 리스트 및 Partition(큐) 별 계산 노드 정보 등은 [스케줄러를 통한 작업실행(SLURM)](https://app.gitbook.com/s/fBmICgXvD3ihLC5OZla4/undefined/running-jobs-through-scheduler-slurm) 또는 [KSC 배치작업 APP](pbs-slurm.md)의 큐 정보를 참조하시기 바랍니다.&#x20;
+뉴론 시스템의 배치  작업 스케줄러(SLURM)에서 지원하는 Partition(큐) 리스트 및 Partition(큐) 별 계산 노드 정보 등은 [스케줄러를 통한 작업실행(SLURM)](https://app.gitbook.com/s/fBmICgXvD3ihLC5OZla4/system/running-jobs-through-scheduler-slurm) 또는 [KSC 배치작업 APP](pbs-slurm.md)의 큐 정보를 참조하시기 바랍니다.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption><p>(뉴론) Cluster Profile Manager에서 파라미터 설정하기-1</p></figcaption></figure>
