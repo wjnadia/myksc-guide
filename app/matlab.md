@@ -21,6 +21,10 @@ MATLAB 소프트웨어 자체에 대한 기술 지원은 [MathWorks 지원 문�
 
 <figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption><p>matlab-vnc에서 MATLAB 데스크톱 프로그램 실행 화면</p></figcaption></figure>
 
+{% embed url="https://youtu.be/kElZUltDXsY?si=TVtUB6ehOZZQT6Vx" %}
+MATLAB 사용방법 동영상 가이드
+{% endembed %}
+
 
 
 ## 가. MATLAB 데스크톱 프로그램 실행
