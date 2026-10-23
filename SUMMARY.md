@@ -1,6 +1,6 @@
 # Table of contents
 
-* [MyKSC 지침서](README.md)
+* [MyKSC 뉴론 지침서](README.md)
 * [1️⃣ MyKSC 개요](myksc-1/README.md)
   * [서비스 구성](myksc-1/undefined.md)
   * [주요 서비스(APP) 현황](myksc-1/app.md)
